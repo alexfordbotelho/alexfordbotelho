@@ -30,7 +30,7 @@ Over the last decade, I’ve specialized in **Data Architecture, FinOps Optimiza
 
 | Project | Description | Key Technologies | Link |
 |--------|-------------|------------------|------|
-| **API Tech Challenger** | Complete API built with FastAPI, Machine Learning, async scraping, and observability stack. FIAP challenge integrating Prometheus, Grafana, Loki, and Terraform. | FastAPI · MongoDB · Prometheus · Grafana · Loki · Docker · Terraform | [🔗 Repository](https://github.com/alexfordbotelho/postech-fiap-ml-tech-challege-1) |
+| **API Tech Challenger** | Complete API built with FastAPI, Machine Learning, async scraping, and observability stack. FIAP challenge integrating Prometheus, Grafana, Loki, and Terraform. | FastAPI · MongoDB · Prometheus · Grafana · Loki · Docker · Terraform | [🔗](https://github.com/alexfordbotelho/postech-fiap-ml-tech-challege-1) |
 
 
 ---
