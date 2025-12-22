@@ -31,7 +31,7 @@ Over the last decade, I’ve specialized in **Data Architecture, FinOps Optimiza
 | Project | Description | Key Technologies | Link |
 |--------|-------------|------------------|------|
 | **API Tech Challenger** | Complete API built with FastAPI, Machine Learning, async scraping, and observability stack. FIAP challenge integrating Prometheus, Grafana, Loki, and Terraform. | FastAPI · MongoDB · Prometheus · Grafana · Loki · Docker · Terraform | [🔗](https://github.com/alexfordbotelho/postech-fiap-ml-tech-challege-1) |
-| **Technical CRM Attribution Platform** | Scalable data platform for multi-channel campaign attribution (Email & WhatsApp) using a Weighted Last Touch model. Built on Medallion Architecture to deliver clean data, attribution accuracy, and business-ready insights for revenue growth and marketing optimization. | Spark · Delta Lake · BigQuery · SQL · Docker · MinIO · Data Engineering · CRM Analytics | [🔗]([https://github.com/your-repo-link](https://github.com/alexfordbotelho/technical-crm-campaign)) |
+| **Technical CRM Attribution Platform** | Scalable data platform for multi-channel campaign attribution (Email & WhatsApp) using a Weighted Last Touch model. Built on Medallion Architecture to deliver clean data, attribution accuracy, and business-ready insights for revenue growth and marketing optimization. | Spark · Delta Lake · BigQuery · SQL · Docker · MinIO · Data Engineering · CRM Analytics | [🔗](https://github.com/alexfordbotelho/technical-crm-campaign) |
 
 
 
