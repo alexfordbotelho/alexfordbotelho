@@ -32,6 +32,7 @@ Over the last decade, I’ve specialized in **Data Architecture, FinOps Optimiza
 |--------|-------------|------------------|------|
 | **API Tech Challenger** | Complete API built with FastAPI, Machine Learning, async scraping, and observability stack. FIAP challenge integrating Prometheus, Grafana, Loki, and Terraform. | FastAPI · MongoDB · Prometheus · Grafana · Loki · Docker · Terraform | [🔗](https://github.com/alexfordbotelho/postech-fiap-ml-tech-challege-1) |
 | **Technical CRM Attribution Platform** | Scalable data platform for multi-channel campaign attribution (Email & WhatsApp) using a Weighted Last Touch model. Built on Medallion Architecture to deliver clean data, attribution accuracy, and business-ready insights for revenue growth and marketing optimization. | Spark · Delta Lake · BigQuery · SQL · Docker · MinIO · Data Engineering · CRM Analytics | [🔗](https://github.com/alexfordbotelho/technical-crm-campaign) |
+| **Technical XML Feed Platform (GCP)** | Real-time XML feed generator running on Google Cloud Functions that queries BigQuery and delivers RSS-compatible product feeds for Google Merchant Center, Meta (Facebook Catalog) and Adobe. Supports multiple pricing plans, installments, Brazilian Real formatting, cache control, and production-grade logging. | Google Cloud Functions · BigQuery · Python · Flask · RSS/XML · Google Cloud SDK · Cloud Build | [🔗](https://github.com/alexfordbotelho/technical-xml-gcp) |
 
 
 
